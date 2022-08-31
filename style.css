@@ -1,0 +1,25 @@
+body{
+	background: #eceeee;
+	background-size: cover;
+	letter-spacing: 0.2em;
+	font-size: 0.8em;
+	overflow: visible;
+  }
+
+.container{
+	max-width: 400px;  
+}
+
+.header{
+	font-family: 'Amatic SC', cursive;
+	font-size: 4rem;
+	font-weight: revert;
+}
+
+.icon{
+	position: relative;
+	margin-top: -3rem;
+	top: -50%;
+	border-radius: 50%;
+	width: 100px;
+}
