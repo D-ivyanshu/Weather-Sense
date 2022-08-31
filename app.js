@@ -37,7 +37,7 @@ const UpdateUI = (data) => {
 	
     // updating the icons
     
-	const iconSrc = `img/icons/${weather.WeatherIcon}.svg`;
+	const iconSrc = `img/logo/${weather.WeatherIcon}.svg`;
 	icon.setAttribute('src',iconSrc);
 
 
