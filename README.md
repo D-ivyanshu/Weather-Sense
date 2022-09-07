@@ -14,9 +14,8 @@ which uses Accuweather open API  (Application Programming Interface)
 
 ## Images
 
+Daytime
 <img src = "img/day%20.jpg">
 
-<br>
-
-
+Nighttime
 <img src = "img/night%20.jpg">
