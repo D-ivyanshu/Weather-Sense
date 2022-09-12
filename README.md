@@ -1,5 +1,5 @@
 
-# Check Weather  
+# Weather Sense
 
 Weather app using HTML, CSS, and JavaScript
 which uses Accuweather open API  (Application Programming Interface) 🌦🌞🌥🌤⛅☀
